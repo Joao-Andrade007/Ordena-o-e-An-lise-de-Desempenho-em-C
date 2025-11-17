@@ -26,6 +26,8 @@ Para compilar o código usando o padrão C11 e a otimização mínima (`-O1`), c
 
 ```bash
 gcc -O1 -std=c11 main.c sorts.c -o ordena
+
 ExecuçãoO programa requer que o seu RGM seja passado como único argumento. Substitua SEU_RGM pelo seu número:Bash./ordena SEU_RGM
+
 Exemplo:Bash./ordena 123456789
 A saída será impressa no console em formato CSV.
