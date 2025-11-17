@@ -1,4 +1,4 @@
-# A2 — Ordenação e Análise de Desempenho em C (RGM: 44982518 S)
+# A2 — Ordenação e Análise de Desempenho em C (RGM: 44982518)
 
 ## 1.  Descrição do Problema e Métodos Implementados
 
